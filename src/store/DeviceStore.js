@@ -12,12 +12,9 @@ export default class DeviceStore {
         this._brands = [
             {id: 1, name: 'Samsung'},
             {id: 2, name: 'Apple'},
-            {id: 2, name: 'Apple'},
-            {id: 2, name: 'Apple'},
-            {id: 2, name: 'Apple'},
-        
-
-
+            {id: 3, name: 'Lenovo'},
+            {id: 4, name: 'Asus'},
+            {id: 5, name: 'Aser'},
         ]
         this._devices = [
             {id: 1, name: '12 pro', price: 1000, rating: 5, img: 'https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m33-1.jpg'},
